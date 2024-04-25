@@ -2,7 +2,11 @@ Scrape
 Title 
 Price 
 But scrape only 292 price tshirt 
-rating 
 Size 
+Then check the color of tshirt 
+if color is red then separate the tshirt 
+then separate the xl size tshirt 
+then remove the shirt which is half sleeve 
+
 
 
